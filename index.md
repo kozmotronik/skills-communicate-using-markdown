@@ -11,3 +11,6 @@ void main(void) {
   halt(life);
 }
 ```
+- [x] Inıt the life
+- [x] Live the life
+- [ ] Let it go
